@@ -4,8 +4,8 @@ Modelo para home page de site
 
 <h1 align="center">
 
-![](img/portifolio1.png)
-![](img/portifolio2.png)
-![](img/portifolio3.png)
+![](img/portfolio1.png)
+![](img/portfolio2.png)
+![](img/portfolio3.png)
 
 </h1>
